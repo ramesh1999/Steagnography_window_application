@@ -1,0 +1,8 @@
+c:\users\ramesh\documents\visual studio 2010\Projects\SimpleSteganography\SimpleSteganography\bin\Debug\SimpleSteganography.exe
+c:\users\ramesh\documents\visual studio 2010\Projects\SimpleSteganography\SimpleSteganography\bin\Debug\SimpleSteganography.pdb
+c:\users\ramesh\documents\visual studio 2010\Projects\SimpleSteganography\SimpleSteganography\obj\x86\Debug\SimpleSteganography.Form1.resources
+c:\users\ramesh\documents\visual studio 2010\Projects\SimpleSteganography\SimpleSteganography\obj\x86\Debug\SimpleSteganography.Properties.Resources.resources
+c:\users\ramesh\documents\visual studio 2010\Projects\SimpleSteganography\SimpleSteganography\obj\x86\Debug\SimpleSteganography.csproj.GenerateResource.Cache
+c:\users\ramesh\documents\visual studio 2010\Projects\SimpleSteganography\SimpleSteganography\obj\x86\Debug\SimpleSteganography.exe
+c:\users\ramesh\documents\visual studio 2010\Projects\SimpleSteganography\SimpleSteganography\obj\x86\Debug\SimpleSteganography.pdb
+C:\Users\Ramesh\Documents\Visual Studio 2010\Projects\SimpleSteganography\SimpleSteganography\obj\x86\Debug\SimpleSteganography.csprojResolveAssemblyReference.cache
